@@ -1,6 +1,5 @@
 <template>
   <div class="home">
-    <!-- <img id="logo" alt="Vue logo" src="../assets/desktop-logo-complet-250x100.svg"> -->
     <LogoChanger/>
     <CommingSoon msg="Site admin en cours de développement"/>
   </div>
