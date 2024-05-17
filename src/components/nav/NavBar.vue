@@ -17,13 +17,13 @@
             class="fixed top-0 left-0 z-40 w-64 h-screen transition-transform -translate-x-full sm:translate-x-0"
             aria-label="Sidebar">
             <div class="h-full px-3 py-4 overflow-y-auto bg-gray-50 dark:bg-gray-800">
-                <a href="https://flowbite.com/" class="flex items-center ps-2.5 mb-5">
+                <a href="#" to="/" class="flex items-center ps-2.5 mb-5">
                     <img src="../../assets/desktop-logo-sans-texte-100x100.svg" class="h-20 w-20" alt="Flowbite Logo" />
                     <span class="self-center text-xl font-semibold whitespace-nowrap ">Avant'alpes</span>
                 </a>
                 <ul class="space-y-2 font-medium">
                     <li>
-                        <a href="/dashboard"
+                        <a href="#" to="/dashboard"
                             class="flex items-center p-2 text-gray-900 rounded-lg  hover:bg-gray-100 dark:hover:bg-gray-700 group">
                             <svg class="w-5 h-5  group-hover:text-gray-900 dark:group-hover:text-white"
                                 aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
