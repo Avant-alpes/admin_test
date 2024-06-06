@@ -1,0 +1,177 @@
+{
+    "auth": {
+        "agree": "J'accepte",
+        "createAccount": "Créer un compte",
+        "createNewAccount": "Créer un nouveau compte",
+        "email": "Email",
+        "login": "Connexion",
+        "password": "Mot de passe",
+        "recover_password": "Récupérer le mot de passe",
+        "sign_up": "Inscription",
+        "keep_logged_in": "Rester connecté",
+        "termsOfUse": "Conditions d'utilisation.",
+        "reset_password": "Réinitialiser le mot de passe"
+    },
+    "404": {
+        "title": "Cette page est partie pêcher.",
+        "text": "Si vous pensez que c'est une erreur, veuillez nous envoyer un message à ",
+        "back_button": "Retour au tableau de bord"
+    },
+    "typography": {
+        "primary": "Styles de texte principaux",
+        "secondary": "Styles de texte secondaires"
+    },
+    "dashboard": {
+        "versions": "Versions",
+        "setupRemoteConnections": "Configurer les connexions à distance",
+        "currentVisitors": "Visiteurs actuels",
+        "navigationLayout": "mise en page de la navigation",
+        "topBarButton": "Barre supérieure",
+        "sideBarButton": "Barre latérale"
+    },
+    "language": {
+        "brazilian_portuguese": "Português",
+        "english": "Anglais",
+        "spanish": "Espagnol",
+        "simplified_chinese": "Chinois simplifié",
+        "persian": "Persan"
+    },
+    "menu": {
+        "auth": "Authentification",
+        "buttons": "Boutons",
+        "timelines": "Chronologies",
+        "dashboard": "Tableau de bord",
+        "billing": "Facturation",
+        "login": "Connexion",
+        "preferences": "Préférences du compte",
+        "payments": "Paiements",
+        "settings": "Paramètres de l'application",
+        "pricing-plans": "Plans tarifaires",
+        "payment-methods": "Méthodes de paiement",
+        "signup": "Inscription",
+        "recover-password": "Récupérer le mot de passe",
+        "recover-password-email": "Email de récupération de mot de passe",
+        "404": "404",
+        "faq": "FAQ",
+        "users": "Utilisateurs",
+        "projects": "Projets"
+    },
+    "messages": {
+        "all": "Voir tous les messages",
+        "new": "Nouveaux messages de {name}",
+        "mark_as_read": "Marquer comme lu"
+    },
+    "navbar": {
+        "messageUs": "Demandes de développement web :",
+        "repository": "Repo GitHub"
+    },
+    "notifications": {
+        "all": "Voir toutes les notifications",
+        "less": "Voir moins de notifications",
+        "mark_as_read": "Marquer comme lu",
+        "sentMessage": "vous a envoyé un message",
+        "uploadedZip": "a téléchargé un nouveau fichier Zip avec {type}",
+        "startedTopic": "a lancé un nouveau sujet"
+    },
+    "user": {
+        "language": "Changer de langue",
+        "logout": "Déconnexion",
+        "profile": "Profil",
+        "settings": "Paramètres",
+        "billing": "Facturation",
+        "faq": "FAQ",
+        "helpAndSupport": "Aide et support",
+        "projects": "Projets",
+        "account": "Compte",
+        "explore": "Explorer"
+    },
+    "treeView": {
+        "basic": "Basique",
+        "icons": "Icônes",
+        "selectable": "Sélectionnable",
+        "editable": "Éditable",
+        "advanced": "Avancé"
+    },
+    "chat": {
+        "title": "Chat",
+        "sendButton": "Envoyer"
+    },
+    "spacingPlayground": {
+        "value": "Valeur",
+        "margin": "Marge",
+        "padding": "Rembourrage"
+    },
+    "spacing": {
+        "title": "Espacement"
+    },
+    "cards": {
+        "cards": "Cartes",
+        "fixed": "Fixe",
+        "floating": "Flottant",
+        "contentText": "Les rayures uniques des zèbres les rendent parmi les animaux les plus familiers aux gens.",
+        "contentTextLong": "Les rayures uniques des zèbres les rendent parmi les animaux les plus familiers aux gens. Ils se trouvent dans une variété d'habitats, tels que les prairies, savanes, forêts, broussailles épineuses, montagnes et collines côtières. Divers facteurs anthropiques ont eu un impact sévère sur les populations de zèbres, en particulier la chasse pour les peaux et la destruction de l'habitat. Le zèbre de Grévy et le zèbre de montagne sont en danger. Alors que les zèbres des plaines sont beaucoup plus nombreux, une sous-espèce, le quagga.",
+        "rowHeight": "Hauteur de la rangée",
+        "title": {
+            "default": "Défaut",
+            "withControls": "Avec contrôles",
+            "customHeader": "En-tête personnalisé",
+            "withoutHeader": "Sans en-tête",
+            "withImage": "Avec image",
+            "withTitleOnImage": "Avec titre sur l'image",
+            "withCustomTitleOnImage": "Avec titre personnalisé sur l'image",
+            "withStripe": "Avec bande",
+            "withBackground": "Avec fond"
+        },
+        "button": {
+            "main": "Principal",
+            "cancel": "Annuler",
+            "showMore": "Voir plus",
+            "readMore": "Voir plus"
+        },
+        "link": {
+            "edit": "Modifier",
+            "setAsDefault": "Définir comme défaut",
+            "delete": "Supprimer",
+            "traveling": "Voyage",
+            "france": "France",
+            "review": "Critique",
+            "feedback": "Laisser un avis",
+            "readFull": "Lire l'article complet",
+            "secondaryAction": "Action secondaire",
+            "action1": "Action 1",
+            "action2": "Action 2"
+        }
+    },
+    "colors": {
+        "themeColors": "Couleurs du thème",
+        "extraColors": "Couleurs supplémentaires",
+        "gradients": {
+            "basic": {
+                "title": "Dégradés de boutons"
+            },
+            "hovered": {
+                "title": "Dégradés de boutons survolés",
+                "text": "Éclaircir de 15% appliqué à un style original (dégradé ou couleur unie) pour l'état survolé."
+            },
+            "pressed": {
+                "title": "Dégradés de boutons pressés",
+                "text": "Assombrir de 15% appliqué à un style original (dégradé ou couleur unie) pour l'état pressé."
+            }
+        }
+    },
+    "tabs": {
+        "alignment": "Alignement des onglets",
+        "overflow": "Débordement des onglets",
+        "hidden": "Onglets avec curseur caché",
+        "grow": "Onglets extensibles"
+    },
+    "helpAndSupport": "Aide et support",
+    "aboutVuesticAdmin": "À propos de Vuestic Admin",
+    "search": {
+        "placeholder": "Recherche..."
+    },
+    "buttonSelect": {
+        "dark": "Sombre",
+        "light": "Clair"
+    }
+}
