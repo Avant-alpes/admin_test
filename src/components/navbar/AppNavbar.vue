@@ -12,13 +12,24 @@
           />
         </Transition>
         <RouterLink to="/" aria-label="Visit home page">
-          <VuesticLogo />
+          <p>
+            <img src="../icons/desktop-logo-seul.svg" alt="Avant Alpes log" style="height: 2rem; margin-top: 0.2rem" />
+          </p>
+        </RouterLink>
+      </div>
+    </template>
+    <template #center>
+      <div class="center">
+        <RouterLink to="/" aria-label="Visit home page">
+          <p>
+            <b>Avant Alpes Admin</b>
+          </p>
         </RouterLink>
       </div>
     </template>
     <template #right>
       <AppNavbarActions class="app-navbar__actions" :is-mobile="isMobile" />
-      <SwitchThemeNavbar />
+      <SwitchThemeNavbar style="height: 2rem; margin-top: 0.25rem" />
     </template>
   </VaNavbar>
 </template>
@@ -27,7 +38,6 @@
 import { storeToRefs } from 'pinia'
 import { useGlobalStore } from '../../stores/global-store'
 import AppNavbarActions from './components/AppNavbarActions.vue'
-import VuesticLogo from '../VuesticLogo.vue'
 import SwitchThemeNavbar from './components/SwitchThemeNavbar.vue'
 
 defineProps({
